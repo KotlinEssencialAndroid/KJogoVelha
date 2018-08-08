@@ -3,8 +3,6 @@ KJogoVelha
 
 Nesse projeto vamos desenvolver um conhecido jogos, o Jogo da Velha. Apesar de simples é totalmente funcional e vamos utilizar mais recursos da linguagem Kotlin.
 
-***Esse projeto faz parte do curso Kotlin Essencial para Android ([https://www.udemy.com/curso-kotlin-android/](https://www.udemy.com/curso-kotlin-android/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
